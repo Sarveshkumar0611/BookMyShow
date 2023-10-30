@@ -41,7 +41,7 @@ You need to set up your environment variables and configuration files. Please fo
 1. Create a .env file in the server directory and add the following:
 
 * MONGODBURI = mongodb://127.0.0.1:27017/bookMovie 
-* MONGODBLIVE = mongodb+srv://rdey5486:sCVwjK9hQC5mmPee@cluster0.sukyqob.mongodb.net/bookmyshow?retryWrites=true&w=majority
+* MONGODBLIVE = mongodb+srv://sarveshdevverman:fw7ZwFyEdnZ39LJR@bookmyshow.ot1ygpv.mongodb.net/?retryWrites=true&w=majority
 * COLLECTION_NAME = bookmovietickets
 * NODE_ENV =  development
 * APP_PORT = 4000 
@@ -93,4 +93,4 @@ Enjoy using your bookmyshow website!
 
 #### Happy Coding!
 
-![bookmyshow](https://github.com/deevesh11nov/BookmyShow/assets/127090783/9c9d01e5-7dde-4e46-8635-3fe1dd6c453d)
+
