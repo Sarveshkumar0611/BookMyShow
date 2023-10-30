@@ -83,7 +83,7 @@ This project was worked on by the following individuals:
 
 * Sarvesh Kumar
 * Bhaskar Bhardwaj [Github Profile-(https://github.com/Bhashkarkumar)]
-* Rajdeep Dey
+* Rajdeep Dey [Github Profile-(https://github.com/RajdeepDey010)]
 
 If you have any questions or need further assistance, please feel free to reach out to any of the contributors.
 
